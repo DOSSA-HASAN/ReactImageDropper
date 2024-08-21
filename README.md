@@ -9,3 +9,5 @@ React Image Dropper is a simple yet powerful React application designed for easy
 - **Supported Image Formats**: Accepts JPEG and PNG image formats.
 - **Responsive Design**: Works seamlessly across different devices and screen sizes.
 
+## LIVE DEMO
+[**LIVE DEMO**](https://drag-n-drop-react.netlify.app/)
